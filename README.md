@@ -6,7 +6,7 @@
 # Vue 3 + Vite
 mini application for finding your favorite movies
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+project+uses+Vue+3+Vite+also+Pinia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+project+uses+Vue+3+Vite+also+pinia+/+/+/+/)](https://git.io/typing-svg)
 ## Project setup
 ```
 npm install
